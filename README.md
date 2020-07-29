@@ -41,3 +41,6 @@ Then create tables with this schema
 Hence the database is set up.
 
 ## If you dont want to create database like this use ```mrs.sql``` file and import it in phpmyadmin screen so the database will be set up instantly.
+
+
+## Once the setup is done open index.php
